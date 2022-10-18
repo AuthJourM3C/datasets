@@ -5,7 +5,8 @@ This repository contains a set of datasets used for environmental sound classifi
 This dataset is used for the task of air-pollution source detection from audio footprints. 
 
 **UrANP dataset**
-This dataset is used for the task of air-pollution source detection from audio footprints. This is an extension of UrESC22 containing a total of 8,5 hours audio clips, splitted in two classes: (a) related to source of air pollution (R) and (b) not related to source of air pollution (NR). 
+The Urban Air-Noise Pollution (UrANP) dataset is used for the task of air-pollution source detection from audio footprints. This is an extension of UrESC22 containing a total of 8,5 hours audio clips, splitted in two classes: (a) related to source of air pollution (R) and (b) not related to source of air pollution (NR). 
+[UrANP](https://research.playcompass.com/files/UrANP.zip)  
 
 **LVLib SMO v1 dataset**
 Dataset for General Audio Classification. This dataset follows a three-class classification scheme, according to the Speech/Music/Other (SMO) taxonomy.
